@@ -8,7 +8,4 @@
 
 maven 打包引入即可
 
-#### 使用说明
-
-在需要同步的方法上加@DistributeLock(lockKey = "theLockKey"(锁键redisKey), exSecond = 10L(过期时间))
 
